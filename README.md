@@ -41,7 +41,7 @@ python main.py
 
 ## ✨ Author
 **Laky**  
-*Certified menace to society* 😈
+*Professional Chaos Engineer* 😈
 
 ---
 
